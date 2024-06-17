@@ -3,24 +3,20 @@
   "title": "Year Zero Actions",
   "description": "Module to track fast/slow actions on Year Zero system games.",
   "version": "This is auto replaced",
-  "library": "false",
+  "library": false,
   "manifestPlusVersion": "1.5.2",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "10",
   "author": "Gorion",
-
   "packs": [
     {
       "name": "yearzero-actions",
       "label": "Year Zero Actions",
       "path": "./packs/yearzero-actions.db",
-      "entity": "Macro"
-}
+      "type": "Macro"
+    }
   ],
-
-  "conflicts": [
-    
-  ],
+  "conflicts": [],
   "esmodules": [
     "/scripts/module.js"
   ],
