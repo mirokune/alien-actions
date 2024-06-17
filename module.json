@@ -2,7 +2,7 @@
   "name": "alien-actions",
   "title": "Year Zero Actions",
   "description": "Module to track fast/slow actions on Year Zero system games.",
-  "version": "This is auto replaced",
+  "version": "1.0.0",
   "library": false,
   "manifestPlusVersion": "1.5.2",
   "minimumCoreVersion": "0.8.6",
@@ -20,7 +20,7 @@
   "esmodules": [
     "/scripts/module.js"
   ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced"
+  "url": "https://github.com/mirokune/alien-actions/",
+  "manifest": "https://raw.githubusercontent.com/mirokune/alien-actions/master/module.json",
+  "download": "https://github.com/mirokune/alien-actions/archive/refs/heads/master.zip"
 }
